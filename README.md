@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Anushka Dubey] 👋
 - 🎓 Branch: [Artificial Intelligence & Machine Learning]
 - 📅 Year: [2029]
 - 🌱 Currently learning: Digital Literacy & Coding
